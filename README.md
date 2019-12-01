@@ -24,3 +24,6 @@ Now this is what I've done so far:
 7) Now, to test is that encrypted image is really the encryption of the digit we passed through the network, i.e, to DECRYPT the image, now we'll pass the image in the same network bu not from the first layer, instead from the third layer (of the next layer from which we took the encrypted image output from, in this case it is 2nd.)
 
 8) The final output is really coming out to be the same digit. Few information is lost though, but this is the first version and many optimizations are still left!
+
+<hr>
+![](output.png)
