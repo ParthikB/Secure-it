@@ -26,4 +26,5 @@ Now this is what I've done so far:
 8) The final output is really coming out to be the same digit. Few information is lost though, but this is the first version and many optimizations are still left!
 
 <hr>
+
 ![](output.png)
