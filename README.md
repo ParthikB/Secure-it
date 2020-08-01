@@ -1,6 +1,4 @@
-# encryption
-
-It's working now. I'm going somewhere with this.
+# Secure it!
 
 Now this is what I've done so far:
 
